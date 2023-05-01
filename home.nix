@@ -14,7 +14,6 @@
 
   programs = {
     bat.enable = true;
-    helix.enable = true;
 
     direnv = {
       enable = true;
